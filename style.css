@@ -1,0 +1,23 @@
+body{
+    background-color: cornsilk;
+    color: cornflowerblue;
+    font-family: 'Ysabeau Office', sans-serif;
+ }
+ .titulo{
+     color: blue;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+ }
+ h2{
+     color: forestgreen;
+ }
+ .imagen1{
+     width: 300px;
+ }
+ .imagen2{
+     width: 300px;
+ }
+ /*
+ selector{
+    propiedad: valor de la propiedad;
+ */
+ 
